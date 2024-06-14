@@ -1,0 +1,9 @@
+.card-container{
+    cursor: pointer;
+    transition: all 0.1s ease-in-out;
+}
+.card-container:hover{
+    transform: scale(1.05);
+}
+
+

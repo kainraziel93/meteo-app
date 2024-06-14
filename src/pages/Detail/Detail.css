@@ -1,0 +1,43 @@
+
+.col-container div{
+    margin-top:50px
+}
+
+.marquee-container h6{
+    color: #004766;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+th{
+    color: #386894;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: fantasy;
+}
+td{
+    font-family:cursive;
+    font-weight: 500;
+}
+.section-wrapper{
+    background-color: transparent;
+    box-shadow: 2px 2px #000000;
+
+}
+
+.section-wrapper h6{
+   color:#23950c;
+   font-size: 22px;
+   font-style: italic;
+   font-family: auto;
+   font-weight:bolder;
+}
+
+.section-wrapper h5{
+    color:black;
+    font-style: italic;
+    font-family: auto;
+    font-weight:700;
+    text-decoration: underline;
+ }

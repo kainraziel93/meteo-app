@@ -1,0 +1,12 @@
+.meteo-card {
+transition: all 0.1s ease-in-out ;
+cursor: pointer;
+
+}
+
+.meteo-card:hover{
+    transform: scale(1.03);
+}
+.card-element{
+    border-radius: 20px;
+}
